@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdullahi-py
+- 👋 Hi, I’m @Dexaml 
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on any other person learning python
